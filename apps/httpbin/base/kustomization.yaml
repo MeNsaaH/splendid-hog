@@ -5,3 +5,5 @@ resources:
   - deployment.yaml
   - service.yaml
   - serviceAccount.yaml
+  - internal-ingress.yaml
+  - external-ingress.yaml
