@@ -1,2 +1,2 @@
 echo-server:
-  replicaCount: 8
+  replicaCount: 9
