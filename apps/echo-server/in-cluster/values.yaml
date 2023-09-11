@@ -1,2 +1,0 @@
-echo-server:
-  replicaCount: 4
